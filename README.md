@@ -22,15 +22,26 @@ visitor@snowace:~$ whoami
 
 visitor@snowace:~$ cat about.txt
 
-  I build products end to end, and I do not stop at the framework boundary.
+  Full-stack developer, powered by coffee and an unreasonable
+  number of open browser tabs.
 
-  On a normal week that means a NestJS + Prisma API, a Next.js App Router
-  front end, an Expo app sharing the same types, and — when the problem
-  calls for it — a Solidity contract with a zk circuit behind it.
+  I speak TypeScript to machines and Vietnamese to humans,
+  and occasionally I mix the two up.
 
-  I like the unglamorous parts: transaction boundaries, idempotency,
-  cache invalidation, and what happens when the network drops halfway
-  through a request.
+  I like the moment a messy idea finally clicks into place, and
+  I will happily spend one more hour making something feel smooth
+  instead of merely finished.
+
+  Favorite sound: CI turning green.
+  Least favorite sound: my laptop fan during a native build.
+
+  Things I collect: side projects, keyboard shortcuts, and
+  half-finished ideas I promise to come back to.
+
+  Weekend mode: reading about something I do not need yet,
+  then building a tiny demo of it anyway.
+
+  Fun fact: my handle says Snow, but I have yet to shovel any.
 
 visitor@snowace:~$ _
 ```
