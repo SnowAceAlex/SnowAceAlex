@@ -221,17 +221,26 @@ visitor@snowace:~$ current projects
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-sable.vercel.app/api?username=SnowAceAlex&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=58A6FF" />
-  <img src="https://github-readme-stats-eight-sable.vercel.app/api?username=SnowAceAlex&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=1A7F37&text_color=1F2328&icon_color=0969DA" alt="GitHub stats for SnowAceAlex" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=SnowAceAlex&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" />
-  <img src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=SnowAceAlex&layout=compact&hide_border=true&langs_count=6&bg_color=FFFFFF&title_color=1A7F37&text_color=1F2328" alt="Most used languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details for SnowAceAlex" width="820" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SnowAceAlex&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=58A6FF&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-  <img src="https://streak-stats.demolab.com?user=SnowAceAlex&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1A7F37&fire=0969DA&currStreakLabel=1A7F37&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories per language" height="200" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" height="200" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" height="200" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/SnowAceAlex/SnowAceAlex/main/profile-summary-card-output/default/4-productive-time.svg" alt="Most productive time" height="200" />
 </picture>
 
 <picture>

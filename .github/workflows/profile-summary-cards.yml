@@ -1,0 +1,45 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # 00:00 UTC daily = 07:00 Vietnam time
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  # Runs immediately when this workflow file changes, so the cards exist
+  # right after the first push. Scoped to this one path on purpose: the
+  # action commits back to main, and an unscoped push trigger would loop.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # Vietnam is UTC+7 — drives the "productive time" card
+          UTC_OFFSET: 7
+          # py-opengl is a 1,087-file coursework dump (Lab 1-8) holding
+          # 1.6 MB of Python — 99.6% of all Python across the account.
+          # Excluding it lets TypeScript and JavaScript read accurately.
+          EXCLUDE_REPOS: "py-opengl"
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          # Empty THEME generates every theme, which is what lets the
+          # README serve github_dark and default via <picture>.
+          THEME: ""
+          ANIMATION: ""
+          DURATION: ""
+          NAME: ""
