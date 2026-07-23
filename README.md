@@ -1,7 +1,8 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=680&height=45&lines=visitor%40snowace%3A~%24+whoami;Bui+Cong+Vinh+%E2%80%94+full-stack+engineer;web+%C2%B7+mobile+%C2%B7+blockchain;visitor%40snowace%3A~%24+_" alt="visitor@snowace:~$ whoami — Bui Cong Vinh, full-stack engineer" />
+</div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=161B22" alt="TypeScript" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&labelColor=161B22" alt="NestJS" />
 <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=161B22" alt="dotnet 8" />
@@ -9,7 +10,6 @@
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=161B22" alt="React Native" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white&labelColor=161B22" alt="Solidity" />
 <img src="https://komarev.com/ghpvc/?username=SnowAceAlex&color=3FB950&style=flat-square&label=visitors" alt="Profile visitor count" />
-
 </div>
 
 <br>
@@ -221,17 +221,12 @@ visitor@snowace:~$ current projects
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnowAceAlex&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnowAceAlex&theme=default" alt="GitHub profile summary for SnowAceAlex" width="820" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SnowAceAlex&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SnowAceAlex&theme=default" alt="Most committed languages" height="200" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-sable.vercel.app/api?username=SnowAceAlex&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=58A6FF" />
+  <img src="https://github-readme-stats-eight-sable.vercel.app/api?username=SnowAceAlex&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=1A7F37&text_color=1F2328&icon_color=0969DA" alt="GitHub stats for SnowAceAlex" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SnowAceAlex&theme=github_dark&utcOffset=7" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SnowAceAlex&theme=default&utcOffset=7" alt="Most productive hours" height="200" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=SnowAceAlex&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" />
+  <img src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=SnowAceAlex&layout=compact&hide_border=true&langs_count=6&bg_color=FFFFFF&title_color=1A7F37&text_color=1F2328" alt="Most used languages" height="165" />
 </picture>
 
 <picture>
